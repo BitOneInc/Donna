@@ -4,7 +4,7 @@
   "description": "Donna, the best Virtual Secretary platform",
   "main": "src/index.js",
   "bin": {
-      "donna-ai": "bin/donna.js"
+    "donna-ai": "bin/donna.js"
   },
   "scripts": {
     "start": "node bin/donna.js",
@@ -41,7 +41,7 @@
     "async": "^0.9.0",
     "chalk": "^1.0.0",
     "lodash": "^3.4.0",
-    "node-wit": "^1.1.0",
+    "node-wit": "^3.3.0",
     "q": "^1.2.0",
     "winston": "^0.9.0"
   },
